@@ -1,2 +1,4 @@
-# Submission-notifier
-A python script that sends a message to your Reddit account when a post is submitted with a key word in a specific subreddit or multiple subreddits. Requires two accounts: one for sending the message and one for receiving. Works with latest version of Python.
+# Notify-on-specific-submission
+A message is sent to your Reddit account when a post is submitted with a key word in a specific subreddit. Need two accounts: one for sending message and one for receiving.
+
+
